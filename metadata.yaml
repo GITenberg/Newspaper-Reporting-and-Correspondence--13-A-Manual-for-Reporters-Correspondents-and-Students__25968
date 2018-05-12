@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31699'
     url: http://www.gutenberg.org/2009/agents/31699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25968#Newspaper-Reporting-and-Correspondence--13-A-Manual-for-Reporters-Correspondents-and-Students_
 gutenberg_issued: '2008-07-04'
 gutenberg_type: Text
 identifiers:
