@@ -1,0 +1,26 @@
+_repo: Newspaper-Reporting-and-Correspondence--13-A-Manual-for-Reporters-Correspondents-and-Students__25968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hyde, Grant Milnor
+    birthdate: 1889
+    gutenberg_agent_id: '31699'
+    url: http://www.gutenberg.org/2009/agents/31699
+description: ''
+gutenberg_issued: '2008-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reporters and reporting'
+- !lcc 'PN'
+title: "Newspaper Reporting and Correspondence\r\nA Manual for Reporters, Correspondents,\
+  \ and Students of Newspaper Writing"
+url: http://www.gutenberg.org/ebooks/25968
